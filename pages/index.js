@@ -11,6 +11,7 @@ export default function Home() {
     <Layout title="Home">
       <h1 className="text-3xl text-green-500 bg-red-500">My first web page</h1>
       <p>Author: Fayzullaev.F</p>
+      <p></p>
     </Layout>
   )
 }
